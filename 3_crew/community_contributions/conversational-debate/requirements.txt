@@ -547,8 +547,6 @@ urllib3==2.5.0
     # via
     #   kubernetes
     #   requests
-uv==0.8.0
-    # via crewai
 uvicorn==0.35.0
     # via
     #   chromadb
